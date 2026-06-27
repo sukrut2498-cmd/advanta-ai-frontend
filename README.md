@@ -1,7 +1,7 @@
 ---
 
 ### 🎨 FRONTEND REPOSITORY: `README.md`
-Place this file directly in the root directory of your Streamlit project (e.g., `E:\Projects\campaign-frontend\README.md`).
+
 
 ```markdown
 # AdVanta AI — Enterprise Marketing Studio UI
