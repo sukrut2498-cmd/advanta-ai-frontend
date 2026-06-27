@@ -1,9 +1,3 @@
----
-
-### 🎨 FRONTEND REPOSITORY: `README.md`
-
-
-```markdown
 # AdVanta AI — Enterprise Marketing Studio UI
 ### Multi-Page Adaptive Composition Workspace Manual
 
@@ -35,3 +29,8 @@ The frontend UI code entirely avoids hardcoded hex values, utilizing **Streamlit
 ### 🟢 Prerequisites
 * **Python 3.10+ Installed** and mapped to system path variables.
 * **Pip** package manager.
+
+### Step 1: Dependencies Installation
+1. Open a terminal frame inside the workspace directory:
+   ```bash
+   cd E:/Projects/campaign-frontend
